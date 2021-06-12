@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Adobe Clean Serif";
+  src: url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.eot");
+  src: url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/b6a82233a2e528638ee7c5aedc864270.svg#Adobe Clean Serif")
+      format("svg");
+}
